@@ -1,0 +1,4 @@
+#Sat Mar 30 15:10:25 ICT 2019
+base.0=C\:\\Users\\Thanh Tuan\\Desktop\\MovieGuide-master\\tuan4\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
